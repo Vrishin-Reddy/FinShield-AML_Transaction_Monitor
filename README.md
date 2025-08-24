@@ -64,5 +64,3 @@ pytest
 
 ---
 
-## Acknowledgements
-Generated from source material using **GitDocify**.
